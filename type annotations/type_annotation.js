@@ -13,3 +13,9 @@ console.log(add);
 var sentence = "hello! this is my typescript sentence.";
 var sentenceLenght = sentence.length;
 console.log(sentenceLenght);
+//boolean
+var myNAmeIs = true;
+function isEven(a) {
+    return a % 2 === 0;
+}
+console.log(isEven(6));
