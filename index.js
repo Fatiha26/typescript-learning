@@ -1,3 +1,4 @@
+"use strict";
 console.log("hello world");
-var num = 5;
+let num = 5;
 num = 55;
