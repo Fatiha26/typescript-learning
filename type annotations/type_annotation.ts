@@ -7,3 +7,5 @@ console.log(myNum.toString());
 
 let summation = myNum + 12;
 console.log(summation)
+
+let nanValue:number = NaN; //valid bcz Nan is a valid number in js,ts
