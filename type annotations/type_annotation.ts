@@ -29,3 +29,8 @@ function isEven(a:number):boolean{
 }
 
 console.log(isEven(6))
+
+//bigint
+
+let bigN:bigint = 9007199254740992n;
+console.log(bigN)

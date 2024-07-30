@@ -19,3 +19,6 @@ function isEven(a) {
     return a % 2 === 0;
 }
 console.log(isEven(6));
+//bigint
+var bigN = 9007199254740992n;
+console.log(bigN);
